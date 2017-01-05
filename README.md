@@ -37,8 +37,7 @@ riot api를 이용한 롤 지역 내 랭킹 서비스
 - 역할 : iOS 앱 개발, 서버
 - 사용기술 : objective c, php, mysql
 
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0587.PNG)
-![](https://drive.google.com/file/d/0B_UxXrNP3BHjRHUwTUZfcVhaQmc/view)
+[![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0587.PNG)](https://drive.google.com/file/d/0B_UxXrNP3BHjRHUwTUZfcVhaQmc/view)
 
 ### NUMBERSAFE
 NFC를 이용한 자동차전화번호알림판
