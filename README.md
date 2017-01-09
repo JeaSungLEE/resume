@@ -26,9 +26,9 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, today widget extension
 
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0584.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0585.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0586.PNG)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.47.33 PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.47.35 PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.48.34 PM.png)
 
 ### MOODMON
 그날의 감정을 기록하는 감정 다이어리
