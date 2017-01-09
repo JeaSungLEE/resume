@@ -19,6 +19,17 @@
 ![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0590.PNG)
 
 ## 프로젝트
+### 전역일계산기
+군대 전역일을 계산
+- 기간 : 2017.01 ~ 현재
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : swift, today widget extension
+
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0584.PNG)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0585.PNG)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0586.PNG)
+
 ### MOODMON
 그날의 감정을 기록하는 감정 다이어리
 - 기간 : 2016.03 ~ 현재
