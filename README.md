@@ -1,12 +1,12 @@
 # 경력
+[NAVER](http://www.naver.com/)
+- 2017.03 ~ 
+
 [터치웍스](http://www.mytouching.com/)
 - 2016.08 ~ 2017.03
 
 [NHN NEXT](http://www.nhnnext.org/)
 - 2015.03 ~ 2016.10
-
-[NAVER](http://www.naver.com/)
-- 2017.03 ~ 
 
 # 프로젝트
 ## 회사 프로젝트
