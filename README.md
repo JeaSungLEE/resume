@@ -11,9 +11,12 @@
 
 # 라이브러리
 ### LimitCellSelect
+[Github](https://github.com/kaskay/LimitCellSelect)
+
 ![](https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif)
 
 ### LimitButtonSelect
+[Github](https://github.com/kaskay/LimitButtonSelect)
 ![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif)
 ![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif)
 
