@@ -57,9 +57,9 @@ Limits the maximum number of buttons that can be selected.
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, today widget extension
 
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.47.33 PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.47.35 PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator Screen Shot 9 Jan 2017, 1.48.34 PM.png)
+![](https://github.com/JeaSungLEE/Intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017%2C%201.47.33%20PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.47.35%20PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.48.34%20PM.png)
 
 ### MOODMON
 그날의 감정을 기록하는 감정 다이어리
