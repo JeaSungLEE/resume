@@ -45,7 +45,11 @@ Limits the maximum number of buttons that can be selected.
 # 프로젝트
 ## 회사 프로젝트
 ### 네이버 카페
-
+네이버 카페
+- 기간 : 2017.03 ~ 현재
+- 소속 : 네이버
+- 역할 : iOS 앱 개발
+- 사용기술 : objective-c, swift
 
 ### 터칭(매장용)
 멤버십 포인트 적립
@@ -56,7 +60,7 @@ Limits the maximum number of buttons that can be selected.
 
 ### 터칭
 멤버십 적립내역 확인
-- 기간 : 2016.08 ~ 현재
+- 기간 : 2016.08 ~ 2017.03
 - 소속 : 터치웍스
 - 역할 : iOS 앱 개발
 - 사용기술 : objective c, swift, realm, mesage extension, 3D Touch
