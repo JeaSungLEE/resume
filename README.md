@@ -69,6 +69,16 @@ Limits the maximum number of buttons that can be selected.
 
 
 ## 개인 프로젝트
+### 이모지키보드
+키보드 익스텐션앱
+- 기간 : 2017.12 ~ 현재
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : swift, keyboard extension
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/second.jpg)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/third.jpg)
+
+
 ### 전역일계산기
 군대 전역일을 계산
 - 기간 : 2017.01 ~ 현재
