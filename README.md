@@ -10,6 +10,22 @@
 
 
 # 라이브러리
+### JSPhoneFormat
+[Github](https://github.com/kaskay/JSPhoneFormat)
+
+한국전화번호 체계에 맞는 구분자 추가
+
+![demo3](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif)
+![demo1](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif)
+![demo2](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif)
+
+### JSGrowingTextView
+[Github](https://github.com/kaskay/JSGrowingTextView)
+
+Text view that grows with text input
+
+![demo](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
+
 ### LimitCellSelect
 [Github](https://github.com/kaskay/LimitCellSelect)
 
