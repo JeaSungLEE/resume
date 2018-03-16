@@ -24,7 +24,7 @@
 
 Text view that grows with text input
 
-![demo](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
+![](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
 
 ### LimitCellSelect
 [Github](https://github.com/kaskay/LimitCellSelect)
@@ -79,8 +79,9 @@ Limits the maximum number of buttons that can be selected.
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
 - 사용기술 : swift
-![]()
-![]()
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin1.jpg)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin2.jpg)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin3.jpg)
 
 ### 이모지키보드
 키보드 익스텐션앱
