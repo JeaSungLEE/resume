@@ -79,6 +79,7 @@ Limits the maximum number of buttons that can be selected.
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
 - 사용기술 : swift
+
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin1.jpg)
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin2.jpg)
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin3.jpg)
