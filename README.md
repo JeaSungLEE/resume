@@ -8,70 +8,7 @@
 [NHN NEXT](http://www.nhnnext.org/)
 - 2015.03 ~ 2016.10
 
-
-# 라이브러리
-### JSPhoneFormat
-[Github](https://github.com/kaskay/JSPhoneFormat)
-
-한국전화번호 체계에 맞는 구분자 추가
-
-![demo3](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif)
-![demo1](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif)
-![demo2](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif)
-
-### JSGrowingTextView
-[Github](https://github.com/kaskay/JSGrowingTextView)
-
-Text view that grows with text input
-
-![](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
-
-### LimitCellSelect
-[Github](https://github.com/kaskay/LimitCellSelect)
-
-You can specify the maximum number of cells that can be selected, and specify the cells that are selected by default.
-
-![](https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif)
-
-### LimitButtonSelect
-[Github](https://github.com/kaskay/LimitButtonSelect)
-
-Limits the maximum number of buttons that can be selected.
-
-![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif)
-![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif)
-
-
 # 프로젝트
-## 회사 프로젝트
-### 네이버 카페
-네이버 카페
-- 기간 : 2017.03 ~ 현재
-- 소속 : 네이버
-- 역할 : iOS 앱 개발
-- 사용기술 : objective-c, swift
-
-### 터칭(매장용)
-멤버십 포인트 적립
-- 기간 : 2017.03 ~ 2017.03
-- 소속 : 터치웍스
-- 역할 : iOS 앱 개발
-- 사용기술 : swift
-
-### 터칭
-멤버십 적립내역 확인
-- 기간 : 2016.08 ~ 2017.03
-- 소속 : 터치웍스
-- 역할 : iOS 앱 개발
-- 사용기술 : objective c, swift, realm, mesage extension, 3D Touch
-
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0588.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0589.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0590.PNG)
-
-
-
-
 ## 개인 프로젝트
 ### 코인호재
 코인들의 호재를 볼수 있는 앱
@@ -152,4 +89,63 @@ NFC를 이용한 자동차전화번호알림판
 ![](https://github.com/kaskay/intro/blob/master/IMAGE/%EA%B2%8C%EC%9E%84%EB%AA%A8%EC%95%84_%EC%99%80%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%AA%A8%EC%95%84.png)
 
 *이 두개는 당시 자료를 남겨두지 않아서 다른 블로그에서 가져온 이미지 입니다.*
+
+## 회사 프로젝트
+### 네이버 카페
+네이버 카페
+- 기간 : 2017.03 ~ 현재
+- 소속 : 네이버
+- 역할 : iOS 앱 개발
+- 사용기술 : objective-c, swift
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.37.52.png)
+
+### 터칭(매장용)
+멤버십 포인트 적립
+- 기간 : 2017.03 ~ 2017.03
+- 소속 : 터치웍스
+- 역할 : iOS 앱 개발
+- 사용기술 : swift
+
+### 터칭
+멤버십 적립내역 확인
+- 기간 : 2016.08 ~ 2017.03
+- 소속 : 터치웍스
+- 역할 : iOS 앱 개발
+- 사용기술 : objective c, swift, realm, mesage extension, 3D Touch
+
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0588.PNG)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0589.PNG)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0590.PNG)
+
+# 라이브러리
+### JSPhoneFormat
+[Github](https://github.com/kaskay/JSPhoneFormat)
+
+한국전화번호 체계에 맞는 구분자 추가
+
+![demo3](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif)
+![demo1](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif)
+![demo2](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif)
+
+### JSGrowingTextView
+[Github](https://github.com/kaskay/JSGrowingTextView)
+
+Text view that grows with text input
+
+![](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
+
+### LimitCellSelect
+[Github](https://github.com/kaskay/LimitCellSelect)
+
+You can specify the maximum number of cells that can be selected, and specify the cells that are selected by default.
+
+![](https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif)
+
+### LimitButtonSelect
+[Github](https://github.com/kaskay/LimitButtonSelect)
+
+Limits the maximum number of buttons that can be selected.
+
+![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif)
+![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif)
 
