@@ -32,7 +32,7 @@
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin3.jpg)
 
 ### 이모지키보드
-키보드 익스텐션앱
+키보드 이모지 익스텐션 앱
 - 기간 : 2017.12 ~ 현재
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
