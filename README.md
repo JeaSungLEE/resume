@@ -10,6 +10,16 @@
 
 # 프로젝트
 ## 개인 프로젝트
+### 연예인 닮은꼴
+닮은 연예인을 머신러닝을 통해서 찾아주는 앱
+- 기간 : 2018.05 ~ 현재
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : swift
+
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.04.png)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.16.png)
+
 ### 코인호재
 코인들의 호재를 볼수 있는 앱
 - 기간 : 2017.12 ~ 현재
@@ -97,6 +107,7 @@ NFC를 이용한 자동차전화번호알림판
 - 소속 : 네이버
 - 역할 : iOS 앱 개발
 - 사용기술 : objective-c, swift
+
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.37.52.png)
 
 ### 터칭(매장용)
