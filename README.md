@@ -10,6 +10,17 @@
 
 # 프로젝트
 ## 개인 프로젝트
+### Todo
+Todo List
+- 기간 : 2018.06 ~ 현재
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : Swift, Coredata
+
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo1.png)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo2.png)
+![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo3.png)
+
 ### 연예인 닮은꼴
 닮은 연예인을 머신러닝을 통해서 찾아주는 앱
 - 기간 : 2018.05 ~ 현재
