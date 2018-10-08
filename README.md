@@ -193,3 +193,11 @@ Limits the maximum number of buttons that can be selected.
 ![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif)
 ![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif)
 
+
+# 세미나
+## let us: Go!
+### let us: Go! 2017 Fall
+Core ML 시작하기 - 이재성 님
+
+### let us: Go! 2018 Summer
+Xcode에서 디버깅 시작하기 - 이재성님
