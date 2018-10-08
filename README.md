@@ -1,3 +1,33 @@
+### 목차
+- [경력](https://github.com/JeaSungLEE/resume#경력)
+     - 네이버
+     - 터치웍스
+     - NHN NEXT
+- [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - 달서사
+    - 모로
+    - Todo
+    - 연예인 닮은꼴
+    - 코인호재
+    - 이모지 키보드
+    - 전역일 계산기
+    - Moodmon
+    - LOL AROUND
+    - NUMBERSAFE
+    - 게임모아
+    - 와이파이비번모아
+- [회사 프로젝트](https://github.com/JeaSungLEE/resume#회사-프로젝트)
+    - 네이버 카페
+    - 터칭
+- [라이브러리](https://github.com/JeaSungLEE/resume#라이브러리)
+    - JSPhoneFormat
+    - JSGrowingTextView
+    - LimitCellSelect
+    - LimitButtonSelect 
+- [세미나 발표](https://github.com/JeaSungLEE/resume#세미나)
+    - Core ML 시작하기
+    - Xcode에서 디버깅 시작하기
+
 # 경력
 [NAVER](http://www.naver.com/)
 - 2017.03 ~ 
