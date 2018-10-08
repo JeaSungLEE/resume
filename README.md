@@ -1,4 +1,4 @@
-### 목차
+## 목차
 - [경력](https://github.com/JeaSungLEE/resume#경력)
      - 네이버
      - 터치웍스
