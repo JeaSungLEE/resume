@@ -27,7 +27,8 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
 - 사용기술 : swift
-
+앱스토어 전체 8등 
+![image](https://user-images.githubusercontent.com/13097922/46590921-046dc800-caf2-11e8-8108-18bf4da767ca.png)
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.04.png)
 ![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.16.png)
 
