@@ -27,9 +27,16 @@
 - [세미나 발표](https://github.com/JeaSungLEE/resume#세미나)
     - Core ML 시작하기
     - Xcode에서 디버깅 시작하기
+    
+<br>
+<br>
 
 # 이재성
 ### 디자인이 이쁜 앱을 만드는 것을 좋아하고, 게임 좋아하는 iOS 개발자입니다.
+
+<br>
+<br>
+<br>
 
 # 경력
 [NAVER](http://www.naver.com/)
