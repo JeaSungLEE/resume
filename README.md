@@ -4,6 +4,7 @@
      - 터치웍스
      - NHN NEXT
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - 미세뿌셔
     - 달서사
     - 모로
     - Todo
@@ -50,6 +51,16 @@
 
 # 프로젝트
 ## 개인 프로젝트
+### 미세뿌셔
+미세먼지를 뿌셔뿌셔
+- 기간 : 2018.05 ~ 현재
+- 소속 : 닌자뀨뀨
+- 역할 : iOS 앱 개발, 코드리뷰, watch 앱 개발
+- 사용기술 : Swift
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/50271056-dd7b2d00-0476-11e9-8a7f-3439046e82ac.jpg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/50271055-dd7b2d00-0476-11e9-9b5f-e7d830d345bf.jpg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/50271054-dd7b2d00-0476-11e9-8188-80626a5096ef.jpg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/50271053-dd7b2d00-0476-11e9-9f8f-ab0bb898d583.jpg">
+
+
 ### 달서사
 달콤한서울의사계절(달서사)
 - 기간 : 2018.09 ~ 2018.09
