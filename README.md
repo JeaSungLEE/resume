@@ -20,11 +20,13 @@
     - 게임모아
     - 와이파이비번모아
 - [회사 프로젝트](https://github.com/JeaSungLEE/resume#회사-프로젝트)
+    - 네이버
+    - 아폴로
     - 네이버 카페
     - 터칭
 - [라이브러리](https://github.com/JeaSungLEE/resume#라이브러리)
+    - TextViewMaster
     - JSPhoneFormat
-    - JSGrowingTextView
     - LimitCellSelect
     - LimitButtonSelect 
 - [세미나 발표](https://github.com/JeaSungLEE/resume#세미나)
@@ -200,14 +202,28 @@ NFC를 이용한 자동차전화번호알림판
 *이 두개는 당시 자료를 남겨두지 않아서 다른 블로그에서 가져온 이미지 입니다.*
 
 ## 회사 프로젝트
-### 네이버 카페
-네이버 카페
-- 기간 : 2017.03 ~ 현재
+### 네이버
+네이버
 - 소속 : 네이버
 - 역할 : iOS 앱 개발
 - 사용기술 : objective-c, swift
 
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.37.52.png)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52127451-7061d680-2675-11e9-976b-6d2de1cc6e78.JPG">
+
+### 아폴로
+??? 
+- 소속 : 네이버
+- 역할 : iOS 앱 개발
+- 사용기술 : Swift, RxSwift
+
+
+### 네이버 카페
+네이버 카페
+- 소속 : 네이버
+- 역할 : iOS 앱 개발
+- 사용기술 : objective-c, swift
+
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.37.52.png">
 
 ### 터칭(매장용)
 멤버십 포인트 적립
