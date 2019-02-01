@@ -63,7 +63,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, tdd
 
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd1.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd2.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd3.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd4.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd5.png">
 
 ### 재르시 키보드
 키보드 이모지 익스텐션 앱
