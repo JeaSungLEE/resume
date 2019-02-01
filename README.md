@@ -4,6 +4,8 @@
      - 터치웍스
      - NHN NEXT
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - 재르시 전역일
+    - 재르시 
     - 미세뿌셔
     - 달서사
     - 모로
@@ -51,6 +53,32 @@
 
 # 프로젝트
 ## 개인 프로젝트
+
+### 재르시 전역일
+군대 전역일을 계산
+전역일이 변경되어서 반영하는김에 디자인도 싹 갈아엎고 새로 만들었습니다.
+처음으로 tdd로 개발한 앱
+- 기간 : 2018.12 ~ 2019.01
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : swift, tdd
+
+![](https://github.com/JeaSungLEE/Intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017%2C%201.47.33%20PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.47.35%20PM.png)
+![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.48.34%20PM.png)
+
+### 재르시 키보드
+키보드 이모지 익스텐션 앱
+디자인과 사용자 커스텀 기능들을 추가하여 새로 만들었습니다.
+- 기간 : 2018.06 ~ 2018.08
+- 소속 : 개인프로젝트
+- 역할 : iOS 앱 개발
+- 사용기술 : swift, keyboard extension
+
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard2.jpg">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard3.jpg">
+
 ### 미세뿌셔
 미세먼지를 뿌셔뿌셔
 - 기간 : 2018.05 ~ 현재
