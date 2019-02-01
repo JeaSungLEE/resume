@@ -246,28 +246,21 @@ NFC를 이용한 자동차전화번호알림판
 
 # 라이브러리
 ### JSPhoneFormat
-[Github](https://github.com/kaskay/JSPhoneFormat)
+[Github](https://github.com/JeaSungLEE/JSPhoneFormat)
 
 한국전화번호 체계에 맞는 구분자 추가
 
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif">
 
-### TextViewMaster
-[Github](https://github.com/kaskay/TextViewMaster)
-
-📱Easy custom placeholder and growing textView
-
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/TextViewMaster/blob/master/intro.gif">
-
 ### LimitCellSelect
-[Github](https://github.com/kaskay/LimitCellSelect)
+[Github](https://github.com/JeaSungLEE/LimitCellSelect)
 
 You can specify the maximum number of cells that can be selected, and specify the cells that are selected by default.
 
 <img width="200" alt="image" src="https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif">
 
 ### LimitButtonSelect
-[Github](https://github.com/kaskay/LimitButtonSelect)
+[Github](https://github.com/JeaSungLEE/LimitButtonSelect)
 
 Limits the maximum number of buttons that can be selected.
 
