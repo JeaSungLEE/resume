@@ -63,9 +63,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, tdd
 
-![](https://github.com/JeaSungLEE/Intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017%2C%201.47.33%20PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.47.35%20PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.48.34%20PM.png)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg">
 
 ### 재르시 키보드
 키보드 이모지 익스텐션 앱
@@ -114,9 +112,7 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, Coredata
 
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo1.png)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo2.png)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo3.png)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo1.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo2.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/todo3.png">
 
 ### 연예인 닮은꼴
 닮은 연예인을 머신러닝을 통해서 찾아주는 앱
@@ -126,10 +122,8 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 사용기술 : swift
 
 #### 앱스토어 전체 8등 달성
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/13097922/46590921-046dc800-caf2-11e8-8108-18bf4da767ca.png">
-
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.04.png)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.16.png)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/46590921-046dc800-caf2-11e8-8108-18bf4da767ca.png">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.04.png"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.32.16.png">
 
 ### 코인호재
 코인들의 호재를 볼수 있는 앱
@@ -138,9 +132,7 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 역할 : iOS 앱 개발
 - 사용기술 : swift
 
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin1.jpg)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin2.jpg)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin3.jpg)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin2.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/coin3.jpg">
 
 ### 이모지키보드
 키보드 이모지 익스텐션 앱
@@ -149,9 +141,7 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, keyboard extension
 
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/second.jpg)
-![](https://github.com/JeaSungLEE/resume/blob/master/IMAGE/third.jpg)
-
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/second.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/third.jpg">
 
 ### 전역일계산기
 군대 전역일을 계산
@@ -160,9 +150,7 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, today widget extension
 
-![](https://github.com/JeaSungLEE/Intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017%2C%201.47.33%20PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.47.35%20PM.png)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.48.34%20PM.png)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/Intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017%2C%201.47.33%20PM.png"><img width="200" alt="image" src="https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.47.35%20PM.png"><img width="200" alt="image" src="https://github.com/kaskay/intro/blob/master/IMAGE/Simulator%20Screen%20Shot%209%20Jan%202017,%201.48.34%20PM.png">
 
 ### MOODMON
 그날의 감정을 기록하는 감정 다이어리
@@ -245,32 +233,28 @@ NFC를 이용한 자동차전화번호알림판
 
 한국전화번호 체계에 맞는 구분자 추가
 
-![demo3](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif)
-![demo1](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif)
-![demo2](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif">
 
-### JSGrowingTextView
-[Github](https://github.com/kaskay/JSGrowingTextView)
+### TextViewMaster
+[Github](https://github.com/kaskay/TextViewMaster)
 
-Text view that grows with text input
+📱Easy custom placeholder and growing textView
 
-![](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/TextViewMaster/blob/master/intro.gif">
 
 ### LimitCellSelect
 [Github](https://github.com/kaskay/LimitCellSelect)
 
 You can specify the maximum number of cells that can be selected, and specify the cells that are selected by default.
 
-![](https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif)
+<img width="200" alt="image" src="https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif">
 
 ### LimitButtonSelect
 [Github](https://github.com/kaskay/LimitButtonSelect)
 
 Limits the maximum number of buttons that can be selected.
 
-![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif)
-![](https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif)
-
+<img width="200" alt="image" src="https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif"><img width="200" alt="image" src="https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif">
 
 # 세미나
 ## let us: Go!
