@@ -5,7 +5,7 @@
      - NHN NEXT
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
     - 재르시 전역일
-    - 재르시 
+    - 재르시 키보드
     - 미세뿌셔
     - 달서사
     - 모로
