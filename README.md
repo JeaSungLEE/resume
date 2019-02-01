@@ -75,9 +75,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, keyboard extension
 
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg">
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard2.jpg">
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard3.jpg">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard1.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard2.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/keyboard3.jpg">
 
 ### 미세뿌셔
 미세먼지를 뿌셔뿌셔
