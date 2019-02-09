@@ -66,7 +66,7 @@ When using swiftlint and cocoapods, beginners will have difficulty. So I created
 - 역할 : 맥 앱 개발
 - 사용기술 : swift
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52180603-c2e4f380-282b-11e9-8cdc-d7d4277e59b0.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52180904-fb3a0100-282e-11e9-842f-9fe208009e10.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/13097922/52180603-c2e4f380-282b-11e9-8cdc-d7d4277e59b0.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/13097922/52180904-fb3a0100-282e-11e9-842f-9fe208009e10.png">
 
 
 ### 재르시 전역일
