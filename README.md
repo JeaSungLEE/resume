@@ -4,6 +4,7 @@
      - 터치웍스
      - NHN NEXT
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - JercyProjectMaster
     - 재르시 전역일
     - 재르시 키보드
     - 미세뿌셔
@@ -55,6 +56,18 @@
 
 # 프로젝트
 ## 개인 프로젝트
+
+### JercyProjectMaster
+👩‍💻👨‍💻 Make your project settings even easier
+When using swiftlint and cocoapods, beginners will have difficulty. So I created the JercyProjectMaster, which is easier to use with the UI.
+첫 맥 앱
+- 기간 : 2019.02 ~ 2019.02
+- 소속 : 개인프로젝트
+- 역할 : 맥 앱 개발
+- 사용기술 : swift
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52180603-c2e4f380-282b-11e9-8cdc-d7d4277e59b0.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52180904-fb3a0100-282e-11e9-842f-9fe208009e10.png">
+
 
 ### 재르시 전역일
 군대 전역일을 계산
