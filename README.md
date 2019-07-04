@@ -72,9 +72,9 @@ When using swiftlint and cocoapods, beginners will have difficulty. So I created
 ### 재르시 전역일
 군대 전역일을 계산
 전역일이 변경되어서 반영하는김에 디자인도 싹 갈아엎고 새로 만들었습니다.
-
+생각보다 인기가 많아서 계속해서 유지보수 중입니다.
 처음으로 tdd로 개발한 앱
-- 기간 : 2018.12 ~ 2019.01
+- 기간 : 2018.12 ~ 현재
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
 - 사용기술 : swift, tdd
@@ -84,6 +84,7 @@ When using swiftlint and cocoapods, beginners will have difficulty. So I created
 ### 재르시 키보드
 키보드 이모지 익스텐션 앱
 디자인과 사용자 커스텀 기능들을 추가하여 새로 만들었습니다.
+생각보다 인기가 많아서 계속해서 유지보수 중입니다.
 - 기간 : 2018.06 ~ 2018.08
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
