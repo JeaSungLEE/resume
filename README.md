@@ -287,3 +287,6 @@ Core ML 시작하기 - 이재성 님
 
 ### let us: Go! 2018 Summer
 Xcode에서 디버깅 시작하기 - 이재성님
+
+### let us: Go! 2019 Summer
+What's new in Xcode, iOS13 - 이재성님
