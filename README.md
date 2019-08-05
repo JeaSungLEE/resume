@@ -33,6 +33,7 @@
 - [세미나 발표](https://github.com/JeaSungLEE/resume#세미나)
     - Core ML 시작하기
     - Xcode에서 디버깅 시작하기
+    - What's new in Xcode, iOS13
     
 <br>
 <br>
