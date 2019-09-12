@@ -26,6 +26,7 @@
     - 네이버 카페
     - 터칭
 - [라이브러리](https://github.com/JeaSungLEE/resume#라이브러리)
+    - PrepareCardStyleModal
     - TextViewMaster
     - JSPhoneFormat
     - LimitCellSelect
@@ -260,6 +261,14 @@ NFC를 이용한 자동차전화번호알림판
 ![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0590.PNG)
 
 # 라이브러리
+### PrepareCardstyleModal
+[Github]https://github.com/JeaSungLEE/PrepareCardStyleModal
+
+카드스타일 모달을 App Delegate에 한줄만 추가하면 전체화면 모달형태로 바꾸거나, 슬라이드로 닫히는 기능을 막을 수 있습니다.
+
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/fullscreen.gif">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/preventslide.gif">
+
 ### JSPhoneFormat
 [Github](https://github.com/JeaSungLEE/JSPhoneFormat)
 
