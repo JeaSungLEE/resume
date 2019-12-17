@@ -4,6 +4,7 @@
      - 터치웍스
      - NHN NEXT
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - U2U
     - JercyProjectMaster
     - 재르시 전역일
     - 재르시 키보드
@@ -58,6 +59,13 @@
 
 # 프로젝트
 ## 개인 프로젝트
+
+### U2U
+유튜브 랭킹을보고 좋아하는 유튜버와 영상을 쉽게 찾아보세요.
+- 기간 : 2019.04 ~ 2019.07
+- 소속 : 매쉬업
+- 역할 : iOS앱개발
+- 사용기술 : swift
 
 ### JercyProjectMaster
 👩‍💻👨‍💻 Make your project settings even easier
