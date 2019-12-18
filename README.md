@@ -144,10 +144,12 @@ Todo List, 디자인도 연습해볼겸... 디자인도 잘하는 디발자가 �
 
 ### 연예인 닮은꼴
 닮은 연예인을 머신러닝을 통해서 찾아주는 앱
-- 기간 : 2018.05 ~ 2018.11 (연예인 초상권 및 성명권? 에 대하 문제가 있어보여서 내렸습니다.)
+- 기간 : 2018.05 ~ 2018.11 (서버비용이 감당되지않아 내렸습니다 ㅠㅠ.)
 - 소속 : 개인프로젝트
 - 역할 : iOS 앱 개발
 - 사용기술 : swift
+#### dau 2400명 달성
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/71090314-1531c780-21e6-11ea-9b04-8258390175dd.png">
 
 #### 앱스토어 전체 8등 달성
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/46590921-046dc800-caf2-11e8-8108-18bf4da767ca.png">
