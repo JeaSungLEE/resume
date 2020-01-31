@@ -68,7 +68,7 @@
 - 소속 : 매쉬업
 - 역할 : backend
 - 사용기술 : kotlin, spring, nginx, aws
-
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73514470-36b4de80-4435-11ea-9b6c-ecf19fab4634.png">
 
 ### U2U
 유튜브 랭킹을보고 좋아하는 유튜버와 영상을 쉽게 찾아보세요.
@@ -77,6 +77,8 @@
 - 소속 : 매쉬업
 - 역할 : iOS앱개발
 - 사용기술 : swift
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73514439-1d139700-4435-11ea-97e4-f6ba857bbeda.jpg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73514440-1d139700-4435-11ea-867a-cbbb0f32ab0e.jpg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73514441-1d139700-4435-11ea-988a-1aa4480ff26a.jpg">
 
 ### JercyProjectMaster
 👩‍💻👨‍💻 Make your project settings even easier
