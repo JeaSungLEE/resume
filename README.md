@@ -1,7 +1,5 @@
 # 이재성
 ### 디자인이 이쁜 앱을 만드는 것을 좋아하고, 게임 좋아하는 iOS 개발자입니다.
-<br>
-<br>
 
 ## 목차
 - [경력](https://github.com/JeaSungLEE/resume#경력)
@@ -42,9 +40,6 @@
     - Core ML 시작하기
     - Xcode에서 디버깅 시작하기
     - What's new in Xcode, iOS13
-    
-<br>
-<br>
 
 # 경력
 [NAVER](http://www.naver.com/)
