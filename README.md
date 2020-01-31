@@ -102,7 +102,7 @@ When using swiftlint and cocoapods, beginners will have difficulty. So I created
 - 역할 : iOS앱개발
 - 사용기술 : swift
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73519576-cdd56280-4444-11ea-8680-0637e130e1d2.jpeg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/jercyEnd2.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73519577-cdd56280-4444-11ea-896e-c0aad11d881b.jpeg">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73519577-cdd56280-4444-11ea-896e-c0aad11d881b.jpeg"><img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73519576-cdd56280-4444-11ea-8680-0637e130e1d2.jpeg">
 
 ### 재르시 전역일
 군대 전역일을 계산
