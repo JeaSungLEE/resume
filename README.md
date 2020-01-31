@@ -15,6 +15,7 @@
     - Monnday
     - U2U
     - JercyProjectMaster
+    - Pream
     - 재르시 전역일
     - 재르시 키보드
     - 미세뿌셔
@@ -94,6 +95,12 @@ When using swiftlint and cocoapods, beginners will have difficulty. So I created
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/13097922/52180603-c2e4f380-282b-11e9-8cdc-d7d4277e59b0.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/13097922/52180904-fb3a0100-282e-11e9-842f-9fe208009e10.png">
 
+### Pream
+사용자, 상황에 맞는 필터를 추천하는 카메라
+- 기간 : 2018.08 ~ 2019.03
+- 소속 : 매쉬업
+- 역할 : iOS앱개발
+- 사용기술 : swift
 
 ### 재르시 전역일
 군대 전역일을 계산
