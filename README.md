@@ -1,11 +1,16 @@
 # 이재성
 ### 디자인이 이쁜 앱을 만드는 것을 좋아하고, 게임 좋아하는 iOS 개발자입니다.
 
+- Email: wotjdzz1@naver.com
+- GitHub: http://github.com/jeasunglee
+- facebook: https://www.facebook.com/profile.php?id=100007616387575
+
 ## 목차
 - [경력](https://github.com/JeaSungLEE/resume#경력)
      - 네이버
      - 터치웍스
      - NHN NEXT
+     - Mash-UP
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
     - Monnday
     - U2U
@@ -40,16 +45,21 @@
     - Core ML 시작하기
     - Xcode에서 디버깅 시작하기
     - What's new in Xcode, iOS13
+- [지인평가](https://github.com/JeaSungLEE/resume#지인평가)
 
 # 경력
+## 회사
 [NAVER](http://www.naver.com/)
-- 2017.03 ~ 
+- 2017.03 ~ 현재
 
 [터치웍스](http://www.mytouching.com/)
 - 2016.08 ~ 2017.03
 
 [NHN NEXT](http://www.nhnnext.org/)
 - 2015.03 ~ 2016.10
+## 단체
+[Mash-Up](https://www.facebook.com/mashupgroup/)
+-2018.03 ~ 현재
 
 # 프로젝트
 ## 개인 프로젝트
@@ -316,3 +326,5 @@ Xcode에서 디버깅 시작하기 - 이재성님
 
 ### let us: Go! 2019 Summer
 What's new in Xcode, iOS13 - 이재성님
+
+# 지인평가
