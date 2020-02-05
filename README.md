@@ -385,7 +385,7 @@ What's new in Xcode, iOS13 - 이재성님
 
 ### from. [이동근](https://shylog.com/) (Web Developer)
 
-<img width="250" alt="image" src="https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy.gif" />
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/26288794/73801958-6c741180-47ff-11ea-805d-108c9266c8e8.gif" />
 
 > - 생각에 그치지 않고 항상 실천으로 옮기는 행동력이 매우 강한 개발자입니다.
 > - 프로젝트에 오너쉽이 강하며, 린한 개발을 위해 Spec을 잘 나누어 프로젝트를 이끌어 갑니다.
