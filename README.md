@@ -4,6 +4,7 @@
 - Email: wotjdzz1@naver.com
 - GitHub: http://github.com/jeasunglee
 - facebook: https://www.facebook.com/profile.php?id=100007616387575
+- linkedIn: www.linkedin.com/in/재성-이-b70805141
 
 ## 목차
 - [경력](https://github.com/JeaSungLEE/resume#경력)
