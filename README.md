@@ -13,6 +13,7 @@
      - NHN NEXT
      - Mash-UP
 - [개인 프로젝트](https://github.com/JeaSungLEE/resume#개인-프로젝트)
+    - 알아봐요 동물의 숲
     - Monnday
     - U2U
     - JercyProjectMaster
@@ -65,6 +66,14 @@
 
 # 프로젝트
 ## 개인 프로젝트
+
+### 알아봐요 동물의 숲
+개인프로젝트로 만명이 넘는 dau를 경험하면서 다양한 이슈들을 정말 많이 접해볼수 있었던 소중한 경험을 했습니다.
+- 기간 : 2020.04 ~ 2020.05
+- 소속 : 개인
+- 역할 : iOS
+- 사용기술 : swift
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/13097922/82330172-6f48ea00-9a1d-11ea-9756-3b3203a889a0.png">
 
 ### Monnday
 일주일동안 있었던 일을 기록하고 회고 하기
