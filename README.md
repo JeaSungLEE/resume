@@ -395,7 +395,7 @@ What's new in Xcode, iOS13 - 이재성님
 
 
 
-### from. [이동근](https://shylog.com/) (Web Developer)
+### from. [이동근](https://shylog.com/) (Web Developer, 레이니스트)
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/26288794/73801958-6c741180-47ff-11ea-805d-108c9266c8e8.gif" />
 
