@@ -7,6 +7,7 @@
 - GitHub: http://github.com/jeasunglee
 - facebook: https://www.facebook.com/profile.php?id=100007616387575
 - linkedIn: www.linkedin.com/in/재성-이-b70805141
+- Notion Blog: https://www.notion.so/jercy/e4314a9d23b341309dd7209d4f8bbb4e
 
 ## 목차
 - [지인평가](https://github.com/JeaSungLEE/resume#지인평가)
